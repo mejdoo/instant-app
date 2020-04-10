@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mejdoo.instantapp.InstantActivity">
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="100"
+        android:title="@string/action_download"
+        android:icon="@android:drawable/stat_sys_download"
+        app:showAsAction="always" />
+</menu>
