@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mejdoo.instantapp">
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.mejdoo.instantapp"
+    android:targetSandboxVersion="2">
 
+    <dist:module dist:instant="true" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
