@@ -1,4 +1,4 @@
-# instant-app
+# Google Play Instant Apps
 
 Google Play Instant apps is a great feature provided by Google Play which lets Android users try apps without an installation.
 
