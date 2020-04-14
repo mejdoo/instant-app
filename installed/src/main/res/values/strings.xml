@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Instant App</string>
+    <string name="app_name">Installed App</string>
     <string name="large_text"><b>Overview of Google Play Instant</b>\n\nGoogle Play Instant enables
         native apps and games to launch on devices running Android 5.0 (API level 21) or higher
         without being installed. You can build these types of experiences, called instant apps and
@@ -7,11 +7,15 @@
         game, known as providing an instant experience, you improve your app or game\'s discovery,
         which helps drive more active users or installations.\n\n<b>How the instant experience works</b>
         \n\nWith Google Play Instant, users can tap on a button in the Play Store, Google Play Games
-        app, or a website banner to use an app or game without installing it first.\n When Google
+        app, or a website banner to use an app or game without installing it first.\nWhen Google
         Play receives one of these requests for an instant app or game, it sends the necessary files
         to the Android device that sent the request. The device then runs the app or game.\nInstant
         experiences fall into two categories: Try experiences in the Play Store and Instant play
-        games in the Google Play Games app.
+        games in the Google Play Games app.\n\n<b>Enable instant experiences by reducing app or game
+            size</b>\n\nYour app or game must be under 15 MB to enable these instant experiences,
+        but the smaller you make it, the better it will be for users.\nReducing the size of your
+        instant app or game has a number of benefits including:\n- Higher user engagement or
+        installations and business success\n-Enabling all instant surfaces including the Try now
+        button in the Play Store\n-Instant play homepage featuring in the Google Play Games app\n
     </string>
-    <string name="action_download">Download</string>
 </resources>

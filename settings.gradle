@@ -1,2 +1,3 @@
 rootProject.name='Instant App'
-include ':app'
+include ':installed'
+include ':instant'
